@@ -11,8 +11,8 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://drive.google.com/file/d/1GrLQQpZK8zX47R9zQBHGVc3osjVQDjwc/view?usp=drive_link');
-    --home-image: url('https://drive.google.com/file/d/1GrLQQpZK8zX47R9zQBHGVc3osjVQDjwc/view?usp=drive_link');
+    --background-image: url('');
+    --home-image: url('');
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
